@@ -112,8 +112,8 @@ Become a professional SOC Analyst 🛡️, API Penetration Tester 🔐 and Bug H
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://facebook.com/yourprofile">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook">
+<a href="https://www.credly.com/users/suraj-magar.1972461d/edit#credly">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
 </a>
 
 </p>
