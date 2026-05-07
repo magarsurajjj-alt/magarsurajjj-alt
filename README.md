@@ -43,6 +43,7 @@ Focus:
   - Threat Hunting
   - Security Monitoring
   - Vulnerability Assessment
+```
 ⚡ Cybersecurity Arsenal
 <div align="center">
 🛡️ Security Tools
