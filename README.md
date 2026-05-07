@@ -18,7 +18,7 @@
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="surajmagr39@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 
