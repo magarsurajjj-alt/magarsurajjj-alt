@@ -1,174 +1,94 @@
-<h2 align="center">Hi there 👋, I'm <a href="https://github.com/magarsurajjj-alt">Suraj Pun Magar</a> 👨‍💻</h2>
+<h1 align="center">Hi 👋, I'm Suraj Pun Magar</h1>
+
+<h3 align="center">🛡️ SOC Analyst | 🔥 Threat Hunter | 🌐 Web Pentester | 🔐 Junior API Pentester | 🐞 Bug Hunter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=SOC+Analyst;Threat+Hunter;Web+Penetration+Tester;Junior+API+Penetration+Tester;Bug+Hunter;Cybersecurity+Enthusiast;Splunk+%7C+Suricata+%7C+Linux+Security" />
-</p>
-
-<br>
-
-<a href="https://github.com/magarsurajjj-alt">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
-</a>
-
-<a href="https://twitter.com/">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-</a>
-
-<a href="https://t.me/">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
-</a>
-
-<br>
-<br>
-
-<p>
-
-A passionate Cybersecurity Enthusiast 🚀 from Nepal 🇳🇵.
-
-Focused on:
-- SOC Analysis
-- Threat Hunting
-- Web Penetration Testing
-- Junior API Penetration Testing
-- Bug Hunting
-- SIEM Monitoring
-- Linux Security
-
-<br>
-
-Currently learning:
-- Splunk SIEM
-- Suricata IDS/IPS
-- Incident Response
-- Threat Detection
-- API Security Testing
-- Web Exploitation
-- Network Security
-
-<br>
-
-Goal:
-Become a professional SOC Analyst 🛡️, API Penetration Tester 🔐 and Bug Hunter 🐞 while contributing to the cybersecurity community.
-
-</p>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="350"/>
-
----
-
-## ✨ Quick Facts
-
-- 👨🏽‍💻 Working on cybersecurity projects & labs
-- 🌱 Currently learning Splunk, API Security & Threat Hunting
-- 🛡️ Building SOC and Detection Engineering skills
-- 🔥 Practicing Web & API Penetration Testing
-- 💬 Ask me about Linux, Splunk, APIs & Cybersecurity
-- 🎯 Goal: Become a SOC Analyst & Security Researcher
-- ⚡ Fun fact: I enjoy breaking and securing web apps 😄
-
----
-
-## 🛠️ Languages and Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
-<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu">
-<img src="https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk">
-<img src="https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark">
-<img src="https://img.shields.io/badge/-BurpSuite-black?style=flat-square">
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman">
-<img src="https://img.shields.io/badge/-Nmap-black?style=flat-square">
-<img src="https://img.shields.io/badge/-OWASP-black?style=flat-square">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-<img src="https://img.shields.io/badge/-pfSense-black?style=flat-square">
-<img src="https://img.shields.io/badge/-Suricata-black?style=flat-square">
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5">
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=950&lines=SOC+Analyst;Threat+Hunter;Web+Penetration+Tester;Junior+API+Penetration+Tester;Bug+Hunter;Splunk+%7C+Suricata+%7C+Linux+Security;OWASP+ZAP+%7C+Nessus+%7C+GVM;Cybersecurity+Enthusiast" />
 </p>
 
 ---
 
-## 🚨 Current Cybersecurity Projects
+<div align="center">
 
-| Project | Description |
-|---|---|
-| 🔍 Splunk Dashboard for Cloudflare Logs | SIEM dashboard for monitoring & visualization |
-| 🛡️ Suricata Setup on Ubuntu Server | IDS/IPS deployment and alert monitoring |
-| 🔥 pfSense Firewall Lab | Firewall setup & network defense |
-| 🌐 Web Penetration Testing Lab | OWASP Top 10 practice environment |
-| 📊 Threat Hunting Lab | Detection engineering & investigations |
-| ☁️ Cloudflare Log Monitoring | Security log analysis with Splunk |
-| 🧪 API Security Testing Lab | Testing APIs for vulnerabilities |
-| 🐧 Ubuntu Server Hardening | Linux security & server configuration |
+<img alt="Cyber Security GIF" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l6ODJ2OHh0NGM0eGRvZnl6b2F6cGJjODk4YmM4c3E3ZGI3OHM4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+</div>
 
 ---
 
-## 🔐 Areas of Interest
+## 🧑‍💻 About Me
 
-- SOC Operations
-- Threat Hunting
-- Detection Engineering
-- API Security
-- Web Security
-- Bug Hunting
-- Malware Analysis
-- Linux Hardening
-- Incident Response
-- Digital Forensics
+```yaml
+Name: Suraj Pun Magar
+Location: Nepal 🇳🇵
 
----
+Roles:
+  - SOC Analyst
+  - Threat Hunter
+  - Web Penetration Tester
+  - Junior API Penetration Tester
+  - Bug Hunter
 
-## 📊 GitHub Stats
+Currently Learning:
+  - Splunk SIEM
+  - Threat Detection
+  - API Security Testing
+  - Detection Engineering
+  - Linux Hardening
+  - Incident Response
 
-<p align="center">
+Focus:
+  - Blue Team Operations
+  - Web & API Security
+  - Threat Hunting
+  - Security Monitoring
+  - Vulnerability Assessment
+⚡ Cybersecurity Arsenal
+<div align="center">
+🛡️ Security Tools
+<img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk"> <img src="https://img.shields.io/badge/Suricata-000?style=for-the-badge"> <img src="https://img.shields.io/badge/pfSense-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark"> <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge"> <img src="https://img.shields.io/badge/OWASP_ZAP-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Nessus-000?style=for-the-badge"> <img src="https://img.shields.io/badge/GVM-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman">
 
-<img src="https://github-readme-stats.vercel.app/api?username=magarsurajjj-alt&show_icons=true&theme=tokyonight">
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=magarsurajjj-alt&theme=tokyonight">
+💻 Operating Systems & Languages
+<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu"> <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"> </div>
+🚨 Current Cybersecurity Projects
+🧪 Project	🔍 Description
+Splunk Dashboard for Cloudflare Logs	SIEM monitoring & visualization
+Suricata Setup on Ubuntu Server	IDS/IPS deployment & alert analysis
+pfSense Firewall Lab	Firewall configuration & network defense
+Web Penetration Testing Lab	OWASP Top 10 testing practice
+API Security Testing Lab	API vulnerability assessment
+Threat Hunting Lab	Detection engineering & investigations
+Ubuntu Server Hardening	Linux server security implementation
+Vulnerability Scanning Lab	Nessus & GVM security assessments
+🔐 Areas of Interest
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarsurajjj-alt&layout=compact&theme=tokyonight">
+🛡️ SOC Operations
+🔍 Threat Hunting
+🌐 Web Security
+🔐 API Security
+🐞 Bug Hunting
+📊 SIEM Monitoring
+🧠 Detection Engineering
+⚡ Incident Response
+🐧 Linux Hardening
+🔥 Vulnerability Assessment
 
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Master Splunk & SIEM Engineering
-- Improve Threat Hunting Skills
-- Learn Advanced API Exploitation
-- Publish Professional Security Projects
-- Contribute to Open Source Security Tools
-- Build Advanced SOC Labs
-
----
-
-## ❤️ Connect with Me
-
-<p>
-
-<a href="https://github.com/magarsurajjj-alt">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-<h3 align="center">⚠️ "Hack to Learn • Defend to Protect" ⚠️</h3>
-
-<p align="center">
-<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="500">
-</p>
+</div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magarsurajjj-alt&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=magarsurajjj-alt&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarsurajjj-alt&layout=compact&theme=tokyonight"/> </div>
+🎯 2026 Goals
+✅ Master Splunk & SIEM Engineering
+✅ Improve Threat Hunting Skills
+✅ Learn Advanced API Exploitation
+✅ Publish Professional Security Projects
+✅ Build Advanced SOC Labs
+✅ Contribute to Open Source Security Tools
+✅ Improve Bug Hunting Methodology
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/magarsurajjj-alt"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
+<div align="center">
+⚠️ "Hack to Learn • Defend to Protect" ⚠️
+<img width="600" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/> </div> ```
