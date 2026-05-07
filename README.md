@@ -9,14 +9,12 @@
 ---
 
 <div align="center">
-
 <img alt="Cyber Security GIF" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l6ODJ2OHh0NGM0eGRvZnl6b2F6cGJjODk4YmM4c3E3ZGI3OHM4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 ```yaml
 Name: Suraj Pun Magar
