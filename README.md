@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm <a href="https://github.com/magarsurajjj-alt">Suraj Pun Magar</a> 👨‍💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=SOC+Analyst;Threat+Hunter;Web+Penetration+Tester;Bug+Hunter;Cybersecurity+Enthusiast;Splunk+%7C+Suricata+%7C+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=SOC+Analyst;Threat+Hunter;Web+Penetration+Tester;Junior+API+Penetration+Tester;Bug+Hunter;Cybersecurity+Enthusiast;Splunk+%7C+Suricata+%7C+Linux+Security" />
 </p>
 
 <br>
@@ -33,6 +33,7 @@ Focused on:
 - SOC Analysis
 - Threat Hunting
 - Web Penetration Testing
+- Junior API Penetration Testing
 - Bug Hunting
 - SIEM Monitoring
 - Linux Security
@@ -44,13 +45,14 @@ Currently learning:
 - Suricata IDS/IPS
 - Incident Response
 - Threat Detection
+- API Security Testing
 - Web Exploitation
 - Network Security
 
 <br>
 
 Goal:
-Become a professional SOC Analyst 🛡️ and Bug Hunter 🐞 while contributing to the cybersecurity community.
+Become a professional SOC Analyst 🛡️, API Penetration Tester 🔐 and Bug Hunter 🐞 while contributing to the cybersecurity community.
 
 </p>
 
@@ -61,9 +63,10 @@ Become a professional SOC Analyst 🛡️ and Bug Hunter 🐞 while contributing
 ## ✨ Quick Facts
 
 - 👨🏽‍💻 Working on cybersecurity projects & labs
-- 🌱 Currently learning Splunk, Suricata & Threat Hunting
+- 🌱 Currently learning Splunk, API Security & Threat Hunting
 - 🛡️ Building SOC and Detection Engineering skills
-- 💬 Ask me about Linux, Splunk, Web Pentesting & Cybersecurity
+- 🔥 Practicing Web & API Penetration Testing
+- 💬 Ask me about Linux, Splunk, APIs & Cybersecurity
 - 🎯 Goal: Become a SOC Analyst & Security Researcher
 - ⚡ Fun fact: I enjoy breaking and securing web apps 😄
 
@@ -78,6 +81,7 @@ Become a professional SOC Analyst 🛡️ and Bug Hunter 🐞 while contributing
 <img src="https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk">
 <img src="https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark">
 <img src="https://img.shields.io/badge/-BurpSuite-black?style=flat-square">
+<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman">
 <img src="https://img.shields.io/badge/-Nmap-black?style=flat-square">
 <img src="https://img.shields.io/badge/-OWASP-black?style=flat-square">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
@@ -92,13 +96,33 @@ Become a professional SOC Analyst 🛡️ and Bug Hunter 🐞 while contributing
 
 ---
 
-## 🚨 Current Projects
+## 🚨 Current Cybersecurity Projects
 
-- 🔍 Splunk Dashboard for Cloudflare Logs
-- 🛡️ Suricata IDS/IPS Setup in Ubuntu Server
-- 🌐 Web Penetration Testing Labs
-- 🔥 pfSense Firewall Lab
-- 📊 Threat Hunting & Detection Engineering
+| Project | Description |
+|---|---|
+| 🔍 Splunk Dashboard for Cloudflare Logs | SIEM dashboard for monitoring & visualization |
+| 🛡️ Suricata Setup on Ubuntu Server | IDS/IPS deployment and alert monitoring |
+| 🔥 pfSense Firewall Lab | Firewall setup & network defense |
+| 🌐 Web Penetration Testing Lab | OWASP Top 10 practice environment |
+| 📊 Threat Hunting Lab | Detection engineering & investigations |
+| ☁️ Cloudflare Log Monitoring | Security log analysis with Splunk |
+| 🧪 API Security Testing Lab | Testing APIs for vulnerabilities |
+| 🐧 Ubuntu Server Hardening | Linux security & server configuration |
+
+---
+
+## 🔐 Areas of Interest
+
+- SOC Operations
+- Threat Hunting
+- Detection Engineering
+- API Security
+- Web Security
+- Bug Hunting
+- Malware Analysis
+- Linux Hardening
+- Incident Response
+- Digital Forensics
 
 ---
 
@@ -120,9 +144,10 @@ Become a professional SOC Analyst 🛡️ and Bug Hunter 🐞 while contributing
 
 - Master Splunk & SIEM Engineering
 - Improve Threat Hunting Skills
-- Learn Advanced Web Exploitation
+- Learn Advanced API Exploitation
 - Publish Professional Security Projects
 - Contribute to Open Source Security Tools
+- Build Advanced SOC Labs
 
 ---
 
