@@ -104,11 +104,11 @@ Become a professional SOC Analyst 🛡️, API Penetration Tester 🔐 and Bug H
 
 <p>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="surajmagr39@gmail.com">
 <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/suraj-pun-magar-958489398/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
