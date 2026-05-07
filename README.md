@@ -43,10 +43,11 @@ Focus:
   - Vulnerability Assessment
 ```
 ⚡ Cybersecurity Arsenal
+```
 <div align="center">
 🛡️ Security Tools
 <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk"> <img src="https://img.shields.io/badge/Suricata-000?style=for-the-badge"> <img src="https://img.shields.io/badge/pfSense-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark"> <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge"> <img src="https://img.shields.io/badge/OWASP_ZAP-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Nessus-000?style=for-the-badge"> <img src="https://img.shields.io/badge/GVM-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman">
-
+```
 <br><br>
 
 💻 Operating Systems & Languages
