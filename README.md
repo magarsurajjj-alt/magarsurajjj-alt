@@ -71,23 +71,60 @@ $ whoami
 
 ### 🚨 Projects & Labs
 
-| # | Project | Focus | Status |
-|---|---|---|---|
-| 1 | **Splunk Dashboard for Cloudflare Logs** | SIEM monitoring & visualization | 🟢 Active |
-| 2 | **Suricata Setup on Ubuntu Server** | IDS/IPS deployment | 🟢 Active |
-| 3 | **pfSense Firewall Lab** | Network security architecture | ✅ Complete |
-| 4 | **Web Pentesting Lab** | OWASP Top 10 exploitation | ✅ Complete |
-| 5 | **API Security Testing Lab** | REST API vulnerability testing | 🟢 Active |
-| 6 | **Threat Hunting Lab** | Detection engineering | 🟢 Active |
-| 7 | **Ubuntu Server Hardening** | Linux security baseline | ✅ Complete |
-| 8 | **Vulnerability Scanning Lab** | Nessus + GVM scanning | ✅ Complete |
-| 9 | **VirusTotal Automation Lab** | Threat intel automation (Python) | 🟢 Active |
+**🔵 SOC / SIEM & Detection Engineering (Splunk)**
+
+| Project | Description |
+|---|---|
+| [Splunk Real-Time Port Scan Detection](https://github.com/magarsurajjj-alt/Splunk-Real-Time-Port-Scan-Detection-SOC-Lab-Project-) | SOC lab detecting port scans in real time |
+| [RDP Brute-Force Attack Investigation](https://github.com/magarsurajjj-alt/RDP-Brute-Force-Attack-Investigation-using-Splunk) | Investigating RDP brute-force activity in Splunk |
+| [Splunk Dashboard for Web Traffic Logs](https://github.com/magarsurajjj-alt/Splunk-Dashboard-for-Web-Traffic-Logs) | Dashboard built on Apache log server data |
+| [Splunk SSH Security Dashboard](https://github.com/magarsurajjj-alt/splunk-ssh-security-dashboard) ⭐ | SSH log monitoring dashboard |
+| [HTTP Log Analysis via Splunk](https://github.com/magarsurajjj-alt/HTTP-Log-Analysis-using-Splunk-via-uploads) | HTTP log analysis using uploaded data |
+| [DNS Log Analysis via Splunk](https://github.com/magarsurajjj-alt/DNS-Log-Analysis-using-Splunk-via-uploads) | DNS log analysis using uploaded data |
+| [SSH Log Analysis via Uploads](https://github.com/magarsurajjj-alt/SSH_log_analysis_via_uploads) | SSH log analysis SOC lab |
+| [Network Recon Detection & IR Lab](https://github.com/magarsurajjj-alt/Network-Reconnaissance-Detection-Incident-Response-Lab) | Incident response lab for recon detection |
+| [SMB Lateral Movement Detection (PCAP Forensics)](https://github.com/magarsurajjj-alt/Detection-and-Analysis-of-SMB-Based-Lateral-Movement-Using-PCAP-Forensics) | Forensic analysis of SMB-based lateral movement |
+
+**🔴 Web & API Penetration Testing**
+
+| Project | Description |
+|---|---|
+| [crAPI Pentest Writeup](https://github.com/magarsurajjj-alt/crapi-pentest) | OWASP crAPI writeup mapped to API Security Top 10, with PoCs & remediation |
+| [Juice Shop Penetration Testing](https://github.com/magarsurajjj-alt/juice-shop-penetration-testing) | Web app pentesting on OWASP Juice Shop |
+| [Cheese Shop API Security Lab](https://github.com/magarsurajjj-alt/Cheese-Shop-API-Security-Lab) | API penetration testing lab |
+| [File Upload Vulnerabilities (PortSwigger Labs)](https://github.com/magarsurajjj-alt/File-Upload-Vulnerabilities-PortSwigger-Labs-) | Web pentesting on file upload vulnerabilities |
+| [OWASP API Top 10 (2023) Security Testing](https://github.com/magarsurajjj-alt/OWASP-API-Top-10-2023-Security-Testing) | Testing against the OWASP API Top 10 |
+| [Mutillidae Pentesting Project](https://github.com/magarsurajjj-alt/mutillidae-pentesting-project) | Web pentesting on OWASP Mutillidae |
+| [DVWA Web Pentest](https://github.com/magarsurajjj-alt/dvwa-web-pentest) | Web pentesting on Damn Vulnerable Web App |
+
+**⚙️ Automation & SOAR (n8n)**
+
+| Project | Description |
+|---|---|
+| [n8n SOC Threat Detection](https://github.com/magarsurajjj-alt/n8n-SOC-Threat-Detection) | SOC + SOAR workflow automation |
+| [Automated IP Reputation Gmail Alert System](https://github.com/magarsurajjj-alt/Automated-IP-Reputation-Gmail-Alert-System-using-n8n) | SOAR pipeline alerting on IP reputation via n8n |
+| [SSL Certificate Expiry Notifier](https://github.com/magarsurajjj-alt/ssl-certificate-expiry-notifier) | Automated SSL monitoring with n8n + Python |
+| [Phishing IOC Analyzer — Automated SOC Pipeline](https://github.com/magarsurajjj-alt/Phishing-IOC-Analyzer-Automated-SOC-Pipeline) | Automated pipeline for phishing IOC analysis |
+
+**🧬 Threat Intel & Malware Analysis**
+
+| Project | Description |
+|---|---|
+| [MISP Practice Lab](https://github.com/magarsurajjj-alt/misp-practice-lab) | Dependency-free HTML/CSS/JS MISP simulation with a 30-lesson curriculum (Beginner → Expert) |
+| [Static Malware Triage Tool](https://github.com/magarsurajjj-alt/static-malware-triage-tool) | Static malware analysis using VirusTotal, PE parsing, entropy & YARA |
+
+**🌐 Portfolio Sites**
+
+| Project | Description |
+|---|---|
+| [Offensive Security Portfolio](https://github.com/magarsurajjj-alt/suraj-offensive-portfolio) | Personal offensive-security portfolio site |
+| [Portfolio](https://github.com/magarsurajjj-alt/portfolio) | Personal developer portfolio |
 
 <div align="center">
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="380"/>
 </div>
 
-> 💡 Pin your best repos on your GitHub profile so they render as live cards right under this README.
+> 💡 24 public repos and counting — pin your top 6 on your profile so they render as live cards right under this README.
 
 <br/>
 
