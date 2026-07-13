@@ -159,13 +159,22 @@ By the end of 2026, I want to be someone a security team trusts to own a shift �
 
 <br/>
 
-### 🐍 Contribution Snake
+### 💻 Live Terminal
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/magarsurajjj-alt/magarsurajjj-alt/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
 
-<sub>↑ This animated snake needs a one-time GitHub Action to generate — setup steps are below.</sub>
+<pre>
+┌──────────────────────────────────────────────────────────┐
+│  suraj@soc:~$                                             │
+</pre>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=40&lines=tail+-f+%2Fvar%2Flog%2Fauth.log;nmap+-sV+-p-+target.local;grep+-i+%22failed+password%22+auth.log;splunk+search+%22index%3Dsecurity+sourcetype%3Dsuricata%22;python3+static_triage.py+--yara+--entropy;status%3A+monitoring..." />
+
+<pre>
+└──────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
 
 <br/>
 
